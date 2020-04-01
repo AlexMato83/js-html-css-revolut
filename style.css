@@ -52,6 +52,8 @@ header {
   transform: translateX(-50%);
   text-align: center;
   line-height: 2;
-
+}
+#hamburger i {
+  display: none;
 }
 /* FINE BARRA DESTRA HEADER  */
